@@ -1,0 +1,1 @@
+Apprentissage de Git qui est un logiciel de "Version Controle" suivant le modèle distribué qui a pour but versionner un fichier c'est à dire de conserver une trace d'un fichier avant et après sa modification 
