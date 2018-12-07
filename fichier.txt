@@ -2,3 +2,7 @@ Voici un autre fichier que je vais envoyer sur github via la commande:
 git push origin master
 Pour le moment on ne m'a pas expliqué le role de master mais je suis assez confiant et je ne me presse pas
 
+Cette ligne est ajoutée depuis github
+but: Recuperer le les mises à jour en local via la console en utilisant la commande: git pull origin master
+
+
