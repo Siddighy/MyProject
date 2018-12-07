@@ -3,8 +3,8 @@ git push origin master
 Pour le moment on ne m'a pas expliqué le role de master mais je suis assez confiant et je ne me presse pas
 
 Cette ligne est ajoutée depuis github
-but: Recuperer le les mises à jour en local via la console en utilisant la commande: git pull origin master
+But: Recuperer le les mises à jour en local via la console en utilisant la commande: git pull origin master
 
 Cette ligne a été ajouté en local et jel'envoie sur github
-but: distinguer le mot clé pull et push et mettre en evidence la nécéssité de mettre à jour le code àfin de faciliter la synchronisation
+But: distinguer le mot clé pull du mot push et mettre en evidence la nécéssité de mettre à jour le code àfin de faciliter la synchronisation
 
