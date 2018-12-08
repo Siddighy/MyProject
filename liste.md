@@ -1,6 +1,6 @@
 Ma Liste de nom:
-1-Barry
-2-Diallo
+1-Diallo
+2-Barry
 3-Bah
 4-Sow
 5-Camara
