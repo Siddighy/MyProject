@@ -8,7 +8,6 @@ int main(){
   int n;
   scanf("%d",&n);
   printf("its square is %d \n",n*n);
-  printf("The world of coders is beautiful \n");
   printf("Enter another one, please\n");
   int p;
   scanf("%d",&p);
